@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricsin23
 - 👀 I’m interested in learning and implementing new stuffs related to software development.
-- 🌱 I’m currently working on Gave development.
+- 🌱 I’m currently working on Game development.
 - 💞️ I’m looking to collaborate on projects related to Game development .
 - 📫 Reach me on linkedIn- https://www.linkedin.com/in/richa-singh-360672170/  
 
