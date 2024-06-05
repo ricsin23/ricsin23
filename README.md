@@ -21,6 +21,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ricsin23&theme=dark)](https://git.io/streak-stats)
 
+### Projects
+[Mental Health Prediction among working class](https://github.com/ricsin23/Mental-Health-Prediction-among-Working-class)
 
 <!---
 ricsin23/ricsin23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
