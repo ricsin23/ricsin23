@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning and implementing new stuffs related to software development.
 - 🌱 I’m currently working on machine learning related stuff.
 - 💞️ I’m looking to collaborate on projects related to machine learning and artificial intelligence.
-- 📫 Reach me on linkedIn- https://www.linkedin.com/in/richa-singh-360672170/  
+- 📫 Reach me on linkedIn- https://www.linkedin.com/in/richa-singh-360672170/
+- <img src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Email Icon" style="width:20px; height:20px;"/> Or you can mail me on - ricsingh906@gmail.com
+
 
 ### Technology Stack
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
