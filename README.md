@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on machine learning related stuff.
 - 💞️ I’m looking to collaborate on projects related to machine learning and artificial intelligence.
 - 📫 Reach me on linkedIn- https://www.linkedin.com/in/richa-singh-360672170/
-- <img src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Email Icon" style="width:20px; height:20px;"/> Or you can mail me on - ricsingh906@gmail.com
+- <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email Icon" style="width:20px; height:15px;"/> Or you can mail me on - ricsingh906@gmail.com
 
 
 ### Technology Stack
